@@ -110,8 +110,7 @@ export const Chat = () => {
               fullWidth
               variant="outlined"
               required
-              label="Required"
-              label="Enter name"
+              label="Enter name here"
             />
           </Grid>
           <Grid item xs={8}>
@@ -124,8 +123,7 @@ export const Chat = () => {
               fullWidth
               variant="outlined"
               required
-              label="Required"
-              label="Enter message here"
+              label="Enter your message here"
             />
           </Grid>
           <Grid item xs={1}>
